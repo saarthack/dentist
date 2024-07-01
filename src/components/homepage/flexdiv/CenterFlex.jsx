@@ -11,7 +11,7 @@ const CenterFlex = () => {
         </div>
       </div>
       <div className='flex flex-col gap-20 '>
-        <i class="ri-arrow-right-down-line text-5xl"></i>
+        <i className="ri-arrow-right-down-line text-5xl"></i>
         <h2 className='text-5xl leading-normal font-normal'>FreeLance <br />Designer and Developer</h2>
       </div>
     </div>
