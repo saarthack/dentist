@@ -8,3 +8,6 @@
 #imagediv{
     transition: transform ease 0.5s ;
 }
+#hoveredText{
+    transition: all ease 0.3s;
+}
