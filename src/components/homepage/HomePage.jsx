@@ -6,7 +6,7 @@ import HeroText from './heroComponent/HeroText'
 
 const HomePage = () => {
   return (
-    <div className='relative bg-black overflow-x-hidden overflow-y-hidden'>
+    <div className='relative overflow-x-hidden overflow-y-hidden'>
         <Navbar />
         <HeroImage />
         <CenterFlex />
