@@ -3,7 +3,7 @@ import 'remixicon/fonts/remixicon.css'
 
 const CenterFlex = () => {
   return (
-    <div className='mt-80 text-white relative z-10 flex items-end justify-between w-11/12'>
+    <div className='mt-64 text-white relative z-10 flex items-end justify-between w-11/12'>
       <div className='flex bg-black items-center gap-8 px-4 py-4 pl-10 rounded-e-full'>
         <h2 className='text-xl leading-none'>Located <br />in the <br />Netherlands</h2>
         <div className='bg-gray-500 flex items-center justify-center h-20 w-20 rounded-full'>
